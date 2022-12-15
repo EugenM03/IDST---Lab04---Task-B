@@ -1,4 +1,5 @@
 #!./.venv/bin/python
+# "touching" the file for making task 3 A. [30] in lab 4 IDST
 import discord      # base discord module
 import code         # code.interact
 import os           # environment variables
